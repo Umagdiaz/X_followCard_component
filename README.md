@@ -1,1 +1,1 @@
-# twitter_followCard_component
+# Follow Card Component (X-Clon)
